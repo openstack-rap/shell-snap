@@ -20,3 +20,7 @@ parts:
     plugin: dump
     
  
+ 
+ #sudo snap install userdev_0.1_all.snap --dangerous --classic
+ 
+ 
